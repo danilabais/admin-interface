@@ -1,19 +1,4 @@
 # vue-test
+Можно добавлять новости с фото, выбирать главную фотку, сортировать, все храниться в localstorage, даже изображения, хоть это и не совсем правильно, я просто учился.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://test-881d9.web.app/
