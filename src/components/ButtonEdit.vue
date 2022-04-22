@@ -3,9 +3,3 @@
     <v-icon dark> mdi-link </v-icon>
   </v-btn>
 </template>
-
-<script>
-export default {};
-</script>
-
-<style></style>

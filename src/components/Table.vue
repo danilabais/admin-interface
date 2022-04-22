@@ -2,7 +2,7 @@
   <div>
     <div v-if="news.length !== 0">
       <h2 class="main-title">Коллекция новостей</h2>
-      <v-row  class="margins">
+      <v-row class="margins">
         <v-autocomplete
           :items="categories"
           outlined
